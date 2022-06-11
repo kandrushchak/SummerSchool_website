@@ -1,0 +1,16 @@
+{
+  "hash": "67db51bbe685955bacc20cffb07fbea4",
+  "result": {
+    "markdown": "---\ntitle: \"Karina Andrushchak\"\n---\n\n\n### Hey there! I am Karina and I am happy to see you here.\n\nAnd are you? 😏\n\n![Photo of Karynka](images/IMG_6786-01.JPG){fig-alt=\"ha-ha\" fig-align=\"center\" width=\"7cm\"}\n\n\n::: {.cell layout-ncol=\"2\"}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![Speed and Stopping Distances of Cars](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n\n```{.r .cell-code}\nplot(pressure)\n```\n\n::: {.cell-output-display}\n![Vapor Pressure of Mercury as a Function of Temperature](index_files/figure-html/unnamed-chunk-1-2.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
